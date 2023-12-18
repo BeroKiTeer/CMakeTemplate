@@ -1,0 +1,3 @@
+F:/CmakeTemplate/build/CMakeFiles/main.dir
+F:/CmakeTemplate/build/CMakeFiles/edit_cache.dir
+F:/CmakeTemplate/build/CMakeFiles/rebuild_cache.dir
